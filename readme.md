@@ -3,14 +3,14 @@
 This is Little Light's storage server code
 
 To run it you will need
-- php 7.1ish (don't remember if 7.0 works)
+- php 7.1ish (not sure if 7.0 works)
 - mongoDB server
 - apache or nginx
 
 ### Install
-clone this repo
-copy .env.example to .env
-replace these with your mongodb connection info
+clone this repo <br/> 
+copy .env.example to .env <br/> 
+replace these with your mongodb connection info <br/> 
 ```
 MONGODB_DATABASE=
 MONGODB_USERNAME=
